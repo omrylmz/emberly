@@ -1,0 +1,37 @@
+<idea-plugin>
+    <id>com.emberly.theme</id>
+    <name>Emberly</name>
+    <vendor url="https://github.com/omrylmz/emberly">Omer Yilmaz</vendor>
+    <description><![CDATA[
+        <p>Warm amber syntax highlighting themes for JetBrains IDEs.</p>
+        <p>Emberly brings a distinctive warm amber aesthetic to your IDE with carefully crafted
+        color schemes that reduce eye strain while maintaining excellent readability.</p>
+        <h3>Included Themes:</h3>
+        <ul>
+            <li><b>Emberly Carbon</b> - Deep neutral dark (#1e1e1e)</li>
+            <li><b>Emberly Noir</b> - Blue-gray dark (#22272e)</li>
+            <li><b>Emberly Umbra</b> - Near black (#0d1117)</li>
+        </ul>
+        <h3>Features:</h3>
+        <ul>
+            <li>Full UI theming (appears in Settings → Appearance → Theme)</li>
+            <li>Matching editor color schemes</li>
+            <li>Warm amber accent colors throughout</li>
+            <li>Optimized for long coding sessions</li>
+        </ul>
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Full UI Themes (appear in Appearance → Theme) -->
+        <themeProvider id="Emberly_Carbon" path="/themes/Emberly_Carbon.theme.json"/>
+        <themeProvider id="Emberly_Noir" path="/themes/Emberly_Noir.theme.json"/>
+        <themeProvider id="Emberly_Umbra" path="/themes/Emberly_Umbra.theme.json"/>
+
+        <!-- Editor Color Schemes (also available separately in Editor → Color Scheme) -->
+        <bundledColorScheme path="/colorSchemes/Emberly_Carbon"/>
+        <bundledColorScheme path="/colorSchemes/Emberly_Noir"/>
+        <bundledColorScheme path="/colorSchemes/Emberly_Umbra"/>
+    </extensions>
+</idea-plugin>
