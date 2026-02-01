@@ -60,7 +60,7 @@ If you only want the syntax colors without the full UI theme:
 4. Select theme: `Preferences: Color Theme` → Emberly Carbon/Noir/Umbra
 
 **Option 2: Manual Installation**
-Download `.vsix` from [Releases](https://github.com/omeryilmaz/emberly/releases), then:
+Download `.vsix` from [Releases](https://github.com/omrylmz/emberly/releases), then:
 ```bash
 code --install-extension emberly-1.0.0.vsix
 ```
