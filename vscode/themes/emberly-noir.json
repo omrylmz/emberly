@@ -19,6 +19,7 @@
     "activityBar.foreground": "#adbac7",
     "activityBar.inactiveForeground": "#636e7b",
     "activityBar.border": "#303030",
+    "activityBar.activeBorder": "#539bf5",
     "activityBarBadge.background": "#539bf5",
     "activityBarBadge.foreground": "#ffffff",
 
@@ -28,6 +29,7 @@
     "sideBarTitle.foreground": "#adbac7",
     "sideBarSectionHeader.background": "#1e1e1e",
     "sideBarSectionHeader.foreground": "#adbac7",
+    "sideBarSectionHeader.border": "#303030",
 
     "list.activeSelectionBackground": "#245187",
     "list.activeSelectionForeground": "#adbac7",
@@ -42,18 +44,22 @@
     "tab.border": "#1e1e1e",
     "tab.activeBorderTop": "#539bf5",
     "editorGroupHeader.tabsBackground": "#1e1e1e",
+    "editorGroupHeader.tabsBorder": "#303030",
     "editorGroup.border": "#303030",
+    "editorOverviewRuler.border": "#303030",
 
     "titleBar.activeBackground": "#1e1e1e",
     "titleBar.activeForeground": "#adbac7",
     "titleBar.inactiveBackground": "#1e1e1e",
     "titleBar.inactiveForeground": "#636e7b",
+    "titleBar.border": "#303030",
 
     "statusBar.background": "#1e1e1e",
     "statusBar.foreground": "#adbac7",
     "statusBar.debuggingBackground": "#f47067",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderBackground": "#1e1e1e",
+    "statusBar.border": "#303030",
     "statusBarItem.hoverBackground": "#303030",
     "statusBarItem.remoteBackground": "#539bf5",
     "statusBarItem.remoteForeground": "#ffffff",
