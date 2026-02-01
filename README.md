@@ -51,6 +51,20 @@ If you only want the syntax colors without the full UI theme:
 3. Click ⚙️ → **Import Scheme**
 4. Select the downloaded file
 
+### VS Code
+
+**Option 1: Marketplace (Recommended)**
+1. Open Extensions sidebar (`Ctrl+Shift+X`)
+2. Search for "Emberly"
+3. Click Install
+4. Select theme: `Preferences: Color Theme` → Emberly Carbon/Noir/Umbra
+
+**Option 2: Manual Installation**
+Download `.vsix` from [Releases](https://github.com/omeryilmaz/emberly/releases), then:
+```bash
+code --install-extension emberly-1.0.0.vsix
+```
+
 ## Screenshots
 
 ### Emberly Carbon
