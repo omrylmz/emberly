@@ -1,0 +1,13 @@
+# Worktrees
+.worktrees/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# VS Code extension
+vscode/*.vsix
+vscode/node_modules/
