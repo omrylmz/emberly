@@ -1,6 +1,8 @@
 # Emberly
 
-Warm amber syntax highlighting on deep dark backgrounds. Designed for long coding sessions with comfortable contrast and reduced eye strain.
+A dark theme collection inspired by the warm amber tones of the Rust Book documentation. Designed for long coding sessions with comfortable contrast and reduced eye strain.
+
+If you enjoy themes like Ayu or Tomorrow, you might like Emberly.
 
 ## Variants
 
@@ -30,23 +32,35 @@ Warm amber syntax highlighting on deep dark backgrounds. Designed for long codin
 
 ### JetBrains IDEs (IntelliJ, WebStorm, PyCharm, GoLand, etc.)
 
-**Option 1: Import**
-1. Download the `.xml` file for your preferred variant from `jetbrains/colors/`
+**Option 1: Marketplace (Recommended)**
+1. Go to **Settings** → **Plugins** → **Marketplace**
+2. Search for "Emberly"
+3. Click **Install** and restart
+4. Go to **Settings** → **Appearance** → **Theme** and select an Emberly theme
+
+**Option 2: Manual Plugin Install**
+1. Download the latest `.zip` from [Releases](https://github.com/omrylmz/emberly/releases)
+2. Go to **Settings** → **Plugins** → ⚙️ → **Install Plugin from Disk**
+3. Select the downloaded file and restart
+4. Go to **Settings** → **Appearance** → **Theme** and select an Emberly theme
+
+**Option 3: Color Scheme Only**
+If you only want the syntax colors without the full UI theme:
+1. Download the `.xml` file from `jetbrains/colors/`
 2. Go to **Settings** → **Editor** → **Color Scheme**
-3. Click the gear icon → **Import Scheme**
-4. Select the downloaded file and apply
-
-**Option 2: Manual**
-Copy the `.xml` file to your IDE's config directory:
-- **macOS**: `~/Library/Application Support/JetBrains/<IDE>/colors/`
-- **Linux**: `~/.config/JetBrains/<IDE>/colors/`
-- **Windows**: `%APPDATA%\JetBrains\<IDE>\colors\`
-
-Then restart your IDE and select the theme from **Settings** → **Editor** → **Color Scheme**.
+3. Click ⚙️ → **Import Scheme**
+4. Select the downloaded file
 
 ## Screenshots
 
-*Coming soon*
+### Emberly Carbon
+![Emberly Carbon](jetbrains/plugin/marketplace-assets/screenshot-carbon.png)
+
+### Emberly Noir
+![Emberly Noir](jetbrains/plugin/marketplace-assets/screenshot-noir.png)
+
+### Emberly Umbra
+![Emberly Umbra](jetbrains/plugin/marketplace-assets/screenshot-umbra.png)
 
 ## License
 
