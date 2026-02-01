@@ -33,13 +33,13 @@ A carefully crafted dark theme combining **Ayu Mirage** syntax colors with **Git
 ## Screenshots
 
 ### Carbon
-![Emberly Carbon](https://raw.githubusercontent.com/omeryilmaz/emberly/main/screenshots/vscode-carbon.png)
+![Emberly Carbon](https://raw.githubusercontent.com/omrylmz/emberly/main/screenshots/vscode-carbon.png)
 
 ### Noir
-![Emberly Noir](https://raw.githubusercontent.com/omeryilmaz/emberly/main/screenshots/vscode-noir.png)
+![Emberly Noir](https://raw.githubusercontent.com/omrylmz/emberly/main/screenshots/vscode-noir.png)
 
 ### Umbra
-![Emberly Umbra](https://raw.githubusercontent.com/omeryilmaz/emberly/main/screenshots/vscode-umbra.png)
+![Emberly Umbra](https://raw.githubusercontent.com/omrylmz/emberly/main/screenshots/vscode-umbra.png)
 
 ## Syntax Colors
 

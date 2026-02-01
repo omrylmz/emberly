@@ -67,14 +67,17 @@ code --install-extension emberly-1.0.0.vsix
 
 ## Screenshots
 
-### Emberly Carbon
-![Emberly Carbon](jetbrains/plugin/marketplace-assets/screenshot-carbon.png)
+### JetBrains
 
-### Emberly Noir
-![Emberly Noir](jetbrains/plugin/marketplace-assets/screenshot-noir.png)
+| Carbon | Noir | Umbra |
+|--------|------|-------|
+| ![Carbon](screenshots/jetbrains-carbon.png) | ![Noir](screenshots/jetbrains-noir.png) | ![Umbra](screenshots/jetbrains-umbra.png) |
 
-### Emberly Umbra
-![Emberly Umbra](jetbrains/plugin/marketplace-assets/screenshot-umbra.png)
+### VS Code
+
+| Carbon | Noir | Umbra |
+|--------|------|-------|
+| ![Carbon](screenshots/vscode-carbon.png) | ![Noir](screenshots/vscode-noir.png) | ![Umbra](screenshots/vscode-umbra.png) |
 
 ## License
 
