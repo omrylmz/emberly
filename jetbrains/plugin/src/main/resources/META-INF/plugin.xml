@@ -8,15 +8,15 @@
         color schemes that reduce eye strain while maintaining excellent readability.</p>
         <h3>Included Themes:</h3>
         <ul>
-            <li><b>Emberly Carbon</b> - Deep neutral dark (#1e1e1e)</li>
-            <li><b>Emberly Noir</b> - Blue-gray dark (#22272e)</li>
-            <li><b>Emberly Umbra</b> - Near black (#0d1117)</li>
+            <li><b>Emberly Carbon</b> - Dark dimmed (#1e2228)</li>
+            <li><b>Emberly Noir</b> - Dark (#252526)</li>
+            <li><b>Emberly Umbra</b> - High contrast (#090c10)</li>
         </ul>
         <h3>Features:</h3>
         <ul>
-            <li>Full UI theming (appears in Settings → Appearance → Theme)</li>
-            <li>Matching editor color schemes</li>
-            <li>Warm amber accent colors throughout</li>
+            <li>Ayu Mirage syntax highlighting with warm amber tones</li>
+            <li>GitHub Dark UI styling (3 variants)</li>
+            <li>Full UI theming (Settings → Appearance → Theme)</li>
             <li>Optimized for long coding sessions</li>
         </ul>
     ]]></description>

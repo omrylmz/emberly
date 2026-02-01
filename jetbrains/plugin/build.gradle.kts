@@ -25,13 +25,13 @@ intellijPlatform {
     pluginConfiguration {
         id = "com.emberly.theme"
         name = "Emberly"
-        version = "1.0.0"
+        version = "1.1.0"
         description = """
-            Warm amber syntax highlighting themes for JetBrains IDEs.
+            Ayu Mirage syntax highlighting with GitHub Dark UI themes.
             <ul>
-                <li><b>Emberly Carbon</b> - Deep neutral dark background</li>
-                <li><b>Emberly Noir</b> - Pure black background</li>
-                <li><b>Emberly Umbra</b> - Warm dark background</li>
+                <li><b>Emberly Carbon</b> - Dark dimmed (#1e2228)</li>
+                <li><b>Emberly Noir</b> - Dark (#252526)</li>
+                <li><b>Emberly Umbra</b> - High contrast (#090c10)</li>
             </ul>
         """.trimIndent()
         vendor {
