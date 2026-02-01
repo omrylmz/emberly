@@ -2,7 +2,7 @@
   "name": "emberly",
   "displayName": "Emberly",
   "description": "A dark theme with Ayu Mirage syntax colors and GitHub Dark UI. Three variants: Carbon (balanced), Noir (medium), Umbra (darkest).",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "publisher": "emberly",
   "license": "MIT",
   "repository": {

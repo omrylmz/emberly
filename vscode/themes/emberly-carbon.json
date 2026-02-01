@@ -18,11 +18,13 @@
     "activityBar.background": "#1e2228",
     "activityBar.foreground": "#adbac7",
     "activityBar.inactiveForeground": "#636e7b",
+    "activityBar.border": "#373e47",
     "activityBarBadge.background": "#539bf5",
     "activityBarBadge.foreground": "#ffffff",
 
     "sideBar.background": "#1e2228",
     "sideBar.foreground": "#adbac7",
+    "sideBar.border": "#373e47",
     "sideBarTitle.foreground": "#adbac7",
     "sideBarSectionHeader.background": "#22272e",
     "sideBarSectionHeader.foreground": "#adbac7",
@@ -38,7 +40,9 @@
     "tab.inactiveBackground": "#1e2228",
     "tab.inactiveForeground": "#636e7b",
     "tab.border": "#1e2228",
+    "tab.activeBorderTop": "#539bf5",
     "editorGroupHeader.tabsBackground": "#1e2228",
+    "editorGroup.border": "#373e47",
 
     "titleBar.activeBackground": "#1e2228",
     "titleBar.activeForeground": "#adbac7",
