@@ -3,21 +3,29 @@
     <name>Emberly</name>
     <vendor url="https://github.com/omrylmz/emberly">Omer Yilmaz</vendor>
     <description><![CDATA[
-        <p>Warm amber syntax highlighting themes for JetBrains IDEs.</p>
-        <p>Emberly brings a distinctive warm amber aesthetic to your IDE with carefully crafted
-        color schemes that reduce eye strain while maintaining excellent readability.</p>
-        <h3>Included Themes:</h3>
+        <h3>About</h3>
+        <p>Emberly is a dark theme collection inspired by the warm amber tones of the
+        <b>Rust Book</b> documentation theme. It provides a comfortable, eye-friendly
+        environment designed for extended coding sessions.</p>
+        <p>If you enjoy themes like <b>Ayu</b> or <b>Tomorrow</b>, you might like Emberly.</p>
+
+        <h3>Themes</h3>
         <ul>
-            <li><b>Emberly Carbon</b> - Dark dimmed (#1e2228)</li>
-            <li><b>Emberly Noir</b> - Dark (#252526)</li>
-            <li><b>Emberly Umbra</b> - High contrast (#090c10)</li>
+            <li><b>Emberly Carbon</b> - Balanced dark theme with dimmed tones</li>
+            <li><b>Emberly Noir</b> - Classic dark theme</li>
+            <li><b>Emberly Umbra</b> - High contrast for maximum clarity</li>
         </ul>
-        <h3>Features:</h3>
+
+        <h3>Installation</h3>
+        <p>After installing, go to <b>Settings → Appearance → Theme</b> and select an Emberly theme.</p>
+
+        <h3>Font</h3>
+        <p>Optimized for <b>Source Code Pro</b> (size 14, line height 1.2). Falls back to JetBrains Mono if not installed.</p>
+
+        <h3>Links</h3>
         <ul>
-            <li>Ayu Mirage syntax highlighting with warm amber tones</li>
-            <li>GitHub Dark UI styling (3 variants)</li>
-            <li>Full UI theming (Settings → Appearance → Theme)</li>
-            <li>Optimized for long coding sessions</li>
+            <li><a href="https://github.com/omrylmz/emberly">GitHub Repository</a></li>
+            <li><a href="https://github.com/omrylmz/emberly/issues">Report Issues</a></li>
         </ul>
     ]]></description>
 

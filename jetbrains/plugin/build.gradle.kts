@@ -25,13 +25,13 @@ intellijPlatform {
     pluginConfiguration {
         id = "com.emberly.theme"
         name = "Emberly"
-        version = "1.1.0"
+        version = "1.2.0"
         description = """
-            Ayu Mirage syntax highlighting with GitHub Dark UI themes.
+            Warm amber dark themes inspired by the Rust Book documentation.
             <ul>
-                <li><b>Emberly Carbon</b> - Dark dimmed (#1e2228)</li>
-                <li><b>Emberly Noir</b> - Dark (#252526)</li>
-                <li><b>Emberly Umbra</b> - High contrast (#090c10)</li>
+                <li><b>Emberly Carbon</b> - Balanced dark with dimmed tones</li>
+                <li><b>Emberly Noir</b> - Classic dark</li>
+                <li><b>Emberly Umbra</b> - High contrast</li>
             </ul>
         """.trimIndent()
         vendor {
