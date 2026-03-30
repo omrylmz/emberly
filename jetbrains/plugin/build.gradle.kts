@@ -25,7 +25,7 @@ intellijPlatform {
     pluginConfiguration {
         id = "com.emberly.theme"
         name = "Emberly"
-        version = "1.2.0"
+        version = "1.2.1"
         description = """
             Warm amber dark themes inspired by the Rust Book documentation.
             <ul>
